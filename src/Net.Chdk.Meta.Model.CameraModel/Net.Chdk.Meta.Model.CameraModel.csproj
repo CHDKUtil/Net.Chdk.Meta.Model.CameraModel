@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="PlatformData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TreePlatformData.cs" />
     <Compile Include="TreeRevisionData.cs" />
     <Compile Include="TreeSourceData.cs" />
   </ItemGroup>
