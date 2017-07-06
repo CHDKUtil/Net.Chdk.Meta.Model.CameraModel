@@ -36,14 +36,8 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
   <ItemGroup>
-    <!-- A reference to the entire .NET Framework is automatically included -->
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="PlatformData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TreePlatformData.cs" />
-    <Compile Include="TreeRevisionData.cs" />
-    <Compile Include="TreeSourceData.cs" />
   </ItemGroup>
   <Import Project="..\..\..\Net.Chdk.Core\src\Net.Chdk.Shared\Net.Chdk.Shared.projitems" Label="Shared" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
