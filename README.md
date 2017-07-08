@@ -1,1 +1,1 @@
-# Net.Chdk.Meta.Model.CameraModel
+# Net.Chdk.Meta.Model.Platform

@@ -1,4 +1,4 @@
-﻿namespace Net.Chdk.Meta.Model.CameraModel
+﻿namespace Net.Chdk.Meta.Model.Platform
 {
     public sealed class PlatformData
     {
